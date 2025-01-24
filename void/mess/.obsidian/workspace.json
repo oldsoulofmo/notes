@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "ea152d811324b25a",
+    "type": "split",
+    "children": [
+      {
+        "id": "82143d4b7b4b5cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d85c8f83cceaed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credentials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b6963f4ba7ea787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credentials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "968a12a6df72561b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life/Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "dc8c216a9d15b705"
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "966693905579d3f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "363fc4b8ec973060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life/Learning.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "dc8c216a9d15b705"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "470270b145c0ba89",
+    "type": "split",
+    "children": [
+      {
+        "id": "737e50021819311c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8231b75438fa5ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42bbdce521a6ae96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f95f1746a7013933",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3193effacfb8b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "883999abb68a1f96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa9a600f0e4e3e5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "life/Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a646acc79dfc06f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "life/Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "708d31196d6c8b78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fcedfcf748b2891",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "life/Learning.md"
+              }
+            }
+          },
+          {
+            "id": "69e048582c74ff63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "968a12a6df72561b",
+  "lastOpenFiles": [
+    "Plans/22 Oct 2023 and the night of 23 Oct 2023.md",
+    "Discrete Mathematics and Its Applications (Kenneth H. Rosen) (Z-Library).pdf",
+    "Command line/Grep.md",
+    "Credentials.md",
+    "Command line",
+    "life/Learning.md",
+    "life/EL PLAN.md",
+    "shit/React notes.md",
+    "2023-08-25.md",
+    "Plans",
+    "55a7859985673181f0c58bf3c172b825.jpeg",
+    "Shopping.md",
+    "Stuff.md",
+    "Day Planners/Day Planner-20230919.md",
+    "Day Planners",
+    "Day Planners/2023-09-19.md",
+    "Day Planners/Day Planner-20230916.md",
+    "Day Planners/Day Planner-20230918.md",
+    "Day Planners/Day Planner-20230917.md",
+    "Day Planners/Day Planner-20230826.md",
+    "Day Planners/Day Planner-20230915.md",
+    "Day Planners/Day Planner-20230914.md",
+    "Day Planners/Day Planner-20230913.md",
+    "shit/oop.md",
+    "Day Planners/Day Planner-20230912.md",
+    "Day Planners/2023-08-25.md",
+    "Day Planners/2023-08-26.md",
+    "Day Planners/Day Planner-20230825.md",
+    "Day Planners/Day Planner-koko look oklkkkkokoolkp look.md",
+    "shit/Screenshot 2023-07-10 at 17.11.39 1.png",
+    "shit/Screenshot 2023-07-10 at 17.04.32.png",
+    "shit/jsruntimeinbrowser.png.md",
+    "JS canvas.canvas",
+    "Untitled 5.canvas",
+    "Screenshot 2023-07-18 at 00.57.53.png",
+    "Screenshot 2023-07-15 at 00.08.53.png",
+    "Screenshot 2023-07-12 at 18.18.02.png",
+    "Screenshot 2023-07-12 at 15.20.39.png",
+    "Screenshot 2023-07-10 at 17.11.39 1.png",
+    "Screenshot 2023-07-10 at 17.11.39.png",
+    "Screenshot 2023-07-10 at 17.04.32.png",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

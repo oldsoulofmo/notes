@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "22a808a7a69b219d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ccfd4488b5dfece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ff3d73fcb95f23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57789360323a4377",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "08cd1bb9033f375e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "11d6802aedeae7d4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7452a462331f8544",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "475df96faa903013",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d5391e6ab1a92ae7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd989175efa295ff",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "c/C language.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "d23bfcc972ebf4b5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "cshar/c sharp.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6eb46c8e3f78e357",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "cshar/c sharp.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "93ff3d73fcb95f23",
+  "lastOpenFiles": [
+    "ChatGPT.md",
+    "computer organization/Computer organization.md",
+    "c/C language.md",
+    "mess/projects.md",
+    "c/Drawing 2024-11-04 16.39.58.excalidraw.excalidraw.md",
+    "cshar/c sharp.md",
+    "c/C Language.md",
+    "c",
+    "cshar/Screenshot 2024-10-14 at 20.27.23.png",
+    "cshar/Screenshot 2024-09-20 at 21.19.17.png",
+    "cshar/File manager project.md",
+    "cshar",
+    "mess/Simply me/WHAT I WILL DO !.md",
+    "mess/life/Learning.md",
+    "mess/shit/js3.md",
+    "mess/shit/js7.md",
+    "mess/shit/Screenshot 2023-07-18 at 00.57.53.png",
+    "mess/shit/Untitled.canvas",
+    "mess/shit/Untitled 2.md",
+    "mess/shit/Untitled 2.canvas",
+    "mess/shit/jsruntimeinbrowser.png.md",
+    "mess/shit/JS canvas.canvas",
+    "mess/shit/Screenshot 2023-07-10 at 17.11.39 1.png",
+    "mess/shit/Screenshot 2023-07-12 at 18.18.02.png",
+    "mess/shit/CSS.md",
+    "mess/shit/Screenshot 2023-07-12 at 15.20.39.png",
+    "mess/shit/React notes.md",
+    "mess/shit/Untitled 1.canvas",
+    "mess/shit/Screenshot 2023-07-15 at 00.08.53.png",
+    "mess/shit/Untitled 3.canvas",
+    "mess/shit/Screenshot 2023-07-10 at 17.04.32.png",
+    "mess/shit/Screenshot 2023-07-10 at 17.11.39.png",
+    "mess/shit/Untitled 1.md",
+    "mess/shit/How javascript works behind the scenes.md",
+    "mess/shit/Untitled 5.canvas",
+    "mess/shit/oop.md",
+    "mess/Command line/Grep.md",
+    "mess/reading/Notes from underground.md",
+    "mess/JAVASCRIPT NOTES.md",
+    "mess/Simply me",
+    "mess/life",
+    "mess/shit",
+    "mess/Credentials.md",
+    "mess/Command line",
+    "mess/reading",
+    "mess",
+    "C/C Language.md",
+    "C",
+    "computer organization"
+  ]
+}
