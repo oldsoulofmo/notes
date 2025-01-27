@@ -56,7 +56,7 @@ React router provides two important components (Link and NavLink) to help create
 
 Nested routes give us the ability to show a part of the UI based on a part of the URL.
 
-```jsx 
+```jsx
   <BrowserRouter>
         <Routes>
           <Route index element={<Homepage />} />
@@ -82,6 +82,42 @@ To show these nested routes we use the outlet component inside the component we 
  <Outlet />
 ```
 
+### Store state in the URL 
+
+Perfect for UI state.
+Examples : 
+
+- open/closed panels
+- currently selected list item
+- list sorting order
+- applied list filters 
+
+Pros: 
+
+- Store state in a global place
+- Pass data from one to the next one
+- Gives the ability to bookmark and share a page with it's exact UI it had at the time of bookmarking
+
+Example : `www.example.com/app/cities/lisbon?lat=38&lng=-9` 
+Here we have param and a query string in that order.
+
+Too straight forward details so it is better to check the worldWise project and look for these things : 
+
+- Created a new route `<Route path="cities/:id" element={<City />} />` 
+  Here the id can be anything, literally anything .. for example here we might use city rather than id. This means that we have to de-structure whatever passed after the / in path when receiving the return value from the useParam hook.
+- In the CityItem component I have added a Link `<Link className={styles.cityItem} to={`/${id}`\>` 
+  Here the id is de-structured from `const { cityName, emoji, date,id } = city;`  
+- Finally I just had to retrieve the id in the City component to render it afterwards 
+  ` const { id } = useParams();`
+
+
+### Programmatic navigation with useNavigate
+
+> Move to a new URL without having the user to click on any link.
+
+A typical use would be after the submission of a form where we want users to be redirected to another link automatically. 
 
 
 
+
+ 
