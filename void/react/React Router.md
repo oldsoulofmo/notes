@@ -50,6 +50,38 @@ export default App;
 
 React router provides two important components (Link and NavLink) to help create a navigation link, they serve the same main purpose but there is an important feature that comes with NavLink which is to provide an active class to the page (URL) we're in in the meantime. (It's important to style things later on)
 
+> The assets are to be directly imported into our javascript code.
+
+### Nested routes 
+
+Nested routes give us the ability to show a part of the UI based on a part of the URL.
+
+```jsx 
+  <BrowserRouter>
+        <Routes>
+          <Route index element={<Homepage />} />
+          <Route path="pricing" element={<Pricing />} />
+          <Route path="product" element={<Product />} />
+          <Route path="app" element={<AppLayout />}>
+            <Route index element={<p>Cities</p>} />
+            <Route path="cities" element={<p>cities</p>} />
+            <Route path="countries" element={<p>countries</p>} />
+            <Route path="form" element={<p>form</p>} />
+          </Route>
+          <Route path="login" element={<Login />} />
+          <Route path="*" element={<PageNotFound />} />
+        </Routes>
+      </BrowserRouter>
+```
+
+the `index` means that the default route to be shown if not other routes are active is the one with an `index` attribute. 
+
+To show these nested routes we use the outlet component inside the component we want to host these nested routes.
+
+```jsx
+ <Outlet />
+```
+
 
 
 
