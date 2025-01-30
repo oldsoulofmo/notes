@@ -1,5 +1,6 @@
 `Building single page applications (SPA).`
 
+
 With routing we match different URLS to different UI views (components), the matchings are called *routes*.  We can then navigate between different applications screen using the URL. 
 
 It helps : 
@@ -17,6 +18,8 @@ Cycle meaning :
 - User clicks on router link.
 - URL is changed by react-router.
 - DOM is updated, the component matches the URL active. 
+
+> To style each component by itself there are [[css modules]]  which server the react separation concern. 
 
 An example that explains itself : 
 
@@ -117,7 +120,22 @@ Too straight forward details so it is better to check the worldWise project and 
 
 A typical use would be after the submission of a form where we want users to be redirected to another link automatically. 
 
+I set up a new route named form which is a _nested route_,  and then to move to the form while clicking on the map I have used the `useNavigate` hook. 
+
+> For better understanding of the code, I must check the [worldWise](https://github.com/oldsoulofmo/worldWise) project. 
+
+> We navigate in an imperative way to another pager (URL).
 
 
+### Navigate component 
 
- 
+> Rarely used because of react router but there is an important use case of it inside nested routes.
+
+It is a more declarative way to be in a certain place, the example on [worldWise](https://github.com/oldsoulofmo/worldWise) project is when we click on _"Start tracking now"_ we do not get to _"/app/cities"_ so to be redirected to that URL (route more specifically) then we can use the `Navigate` component coming from `useNavigate` hook. 
+
+
+```jsx
+<Route index element={<Navigate replace to="cities" />} />
+```
+
+
