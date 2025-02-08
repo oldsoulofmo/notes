@@ -1,4 +1,4 @@
-[[few notes]] 
+[[React]] 
 [[React Router]]
 [[Advanced state management - The context API]]
 [[css modules]]
