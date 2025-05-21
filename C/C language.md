@@ -1,5 +1,7 @@
 ## Type conversion 
 
+hello 
+
 For a computer to perform arithmetic conversion the operands must usually be of the same size _(same number of bits)_ and be stored in the same way. So, a computer might add two 16-bits integers directly but not 32-bits with a 16-bits integer or a 32-bits integer with a 32-bits floating point number. 
 
 C allows to combine different types and sizes into one expression, the C compiler then might have to generate instructions that convert some operands to different types so that the hardware might be able to evaluate the expression. Since the compiler is taking care of these conversions then it's called *implicit conversion*.
