@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"type":"text","text":"Fullfilled","id":"1ff3ebb4ba24b110","x":165,"y":100,"width":190,"height":50},
+		{"type":"text","text":"Rejected","id":"17fe4d192dd43f41","x":419,"y":100,"width":182,"height":50},
+		{"type":"text","text":"Settled","id":"e3d2c8aaaaa0f26a","x":260,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"Pending","id":"6eb2102cf4a96580","x":-300,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"The value is available","id":"16581e1ffc461c01","x":-20,"y":224,"width":200,"height":50},
+		{"type":"text","text":"Async task has finished","id":"e351f0e067a15e62","x":317,"y":-184,"width":223,"height":50},
+		{"type":"text","text":"Before the future is available","id":"0a73bbbe7218e38c","x":-245,"y":-209,"width":265,"height":50},
+		{"type":"text","text":"Production","id":"df1506819da80a47","x":480,"y":909,"width":158,"height":51},
+		{"type":"text","text":"Build process","id":"6235486fed59d7ff","x":240,"y":909,"width":158,"height":51},
+		{"type":"text","text":"Development ","id":"f568ef7e90db58b5","x":-20,"y":909,"width":158,"height":51},
+		{"type":"text","text":"Join all modules into one file","id":"97be782b08cf8dcf","x":131,"y":1058,"width":250,"height":60},
+		{"type":"text","text":"Modules, 3rd party modules","id":"80737b2831e91f52","x":36,"y":735,"width":250,"height":60},
+		{"type":"text","text":"Through NPM ...\n","id":"e5ff204e8aae3194","x":383,"y":655,"width":176,"height":50},
+		{"type":"text","text":"Building","id":"7ee0ae7f2a2a45ed","x":328,"y":795,"width":112,"height":50},
+		{"type":"text","text":"Transpilling/Polyfilling","id":"1678601b2fe859d2","x":559,"y":795,"width":217,"height":50},
+		{"id":"e58ce4c4e0799ad2","x":864,"y":669,"width":250,"height":91,"type":"text","text":"Convert modern js back to es5 so it works for old browsers"},
+		{"id":"153bd0e5fd265c7f","x":617,"y":680,"width":101,"height":50,"type":"text","text":"BABEL"},
+		{"id":"760d7ff94ca97a55","x":758,"y":910,"width":213,"height":50,"type":"text","text":"WEBPACK OR PARCEL"}
+	],
+	"edges":[
+		{"id":"414dc60be6b36e85","fromNode":"e3d2c8aaaaa0f26a","fromSide":"bottom","toNode":"1ff3ebb4ba24b110","toSide":"top"},
+		{"id":"ee4e7079ba18a2ac","fromNode":"e3d2c8aaaaa0f26a","fromSide":"bottom","toNode":"17fe4d192dd43f41","toSide":"top"},
+		{"id":"71092165f795df39","fromNode":"6eb2102cf4a96580","fromSide":"right","toNode":"e3d2c8aaaaa0f26a","toSide":"left","label":"Async task"},
+		{"id":"699c67638c857171","fromNode":"1ff3ebb4ba24b110","fromSide":"bottom","toNode":"16581e1ffc461c01","toSide":"top"},
+		{"id":"76d4b09149d739d1","fromNode":"e3d2c8aaaaa0f26a","fromSide":"top","toNode":"e351f0e067a15e62","toSide":"bottom"},
+		{"id":"a86b4fdb5b88a1be","fromNode":"6eb2102cf4a96580","fromSide":"top","toNode":"0a73bbbe7218e38c","toSide":"bottom"},
+		{"id":"5669425479d79b1b","fromNode":"f568ef7e90db58b5","fromSide":"right","toNode":"6235486fed59d7ff","toSide":"left"},
+		{"id":"8a0992abbfc38e29","fromNode":"6235486fed59d7ff","fromSide":"right","toNode":"df1506819da80a47","toSide":"left"},
+		{"id":"7fb9f046a1c0af05","fromNode":"6235486fed59d7ff","fromSide":"bottom","toNode":"97be782b08cf8dcf","toSide":"top"},
+		{"id":"cb711dfb48fd003f","fromNode":"f568ef7e90db58b5","fromSide":"top","toNode":"80737b2831e91f52","toSide":"bottom"},
+		{"id":"be30aad60560089e","fromNode":"80737b2831e91f52","fromSide":"right","toNode":"e5ff204e8aae3194","toSide":"left"},
+		{"id":"4789c7ebdad101aa","fromNode":"6235486fed59d7ff","fromSide":"top","toNode":"7ee0ae7f2a2a45ed","toSide":"bottom"},
+		{"id":"4a3a3e985d8af83d","fromNode":"7ee0ae7f2a2a45ed","fromSide":"right","toNode":"1678601b2fe859d2","toSide":"left"},
+		{"id":"fbe41c38b63b7628","fromNode":"1678601b2fe859d2","fromSide":"right","toNode":"e58ce4c4e0799ad2","toSide":"left"},
+		{"id":"17096f41a2247feb","fromNode":"1678601b2fe859d2","fromSide":"top","toNode":"153bd0e5fd265c7f","toSide":"bottom"},
+		{"id":"d010b1799433535b","fromNode":"7ee0ae7f2a2a45ed","fromSide":"bottom","toNode":"760d7ff94ca97a55","toSide":"top"}
+	]
+}

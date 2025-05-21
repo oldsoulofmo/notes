@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb02de7f7323c173",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55edf3cdb8a26c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "void/react/React Router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React Router"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f4298660b8ba06a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d51d7072d6e4c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ad82ac5e42f840",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3499092195a6caef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"OS/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e11ee3ccae3dd81c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "374b7991736efc31",
+    "type": "split",
+    "children": [
+      {
+        "id": "53463ab7e0c1cce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18e35d546838e1dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "void/c/C language.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for C language"
+            }
+          },
+          {
+            "id": "c190b379dc951316",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "void/c/C language.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from C language"
+            }
+          },
+          {
+            "id": "387b47572ab5513b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "50faee25d256cab9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "void/c/C language.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of C language"
+            }
+          },
+          {
+            "id": "d42c0481bd3a3a79",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b5676b4bb0e4fb91",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": true,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "55edf3cdb8a26c6d",
+  "lastOpenFiles": [
+    "void/react/few notes.md",
+    "void/react/React Router.md",
+    "personal/Note.md",
+    "void/java/java.md",
+    "void/mess/reading/Notes from underground.md",
+    "void/mess/JAVASCRIPT NOTES.md",
+    "void/mess/projects.md",
+    "void/mess/shit/js7.md",
+    "void/mess/shit/oop.md",
+    "void/mess/shit/js3.md",
+    "void/mess/shit/How javascript works behind the scenes.md",
+    "void/mess/shit/JS canvas.canvas",
+    "Useful methods.md",
+    "void/react/Rendering Lists – React 1.md",
+    "void/react/Rendering Lists – React.md",
+    "void/react/Rendering Lists – React 2.md",
+    "void/react/Rendering Lists – React 1 1.md",
+    "Clippings/ChatGPT.md",
+    "Rendering Lists – React 1.md",
+    "OS/File system.md",
+    "OS/deadlock.md",
+    "OS/Part1：CPU scheduling algorithm.md",
+    "OS/Process management.md",
+    "Project Idea.md",
+    "Linear algebra.md",
+    "personal/Why?.md",
+    "personal/daily planners/2024-12-19.md",
+    "OS",
+    "db course/Untitled.jpg",
+    "db course",
+    "languages",
+    "void/react",
+    "void/mess/shit/Screenshot 2023-07-12 at 15.20.39.png",
+    "void/mess/shit/Screenshot 2023-07-12 at 18.18.02.png",
+    "void/mess/shit/Screenshot 2023-07-15 at 00.08.53.png",
+    "void/mess/shit/Screenshot 2023-07-18 at 00.57.53.png",
+    "void/mess/shit/Screenshot 2023-07-10 at 17.11.39 1.png",
+    "void/mess/shit/Screenshot 2023-07-10 at 17.04.32.png",
+    "void/mess/shit/Untitled.canvas",
+    "void/mess/shit/Untitled 5.canvas",
+    "void/mess/shit/Untitled 3.canvas",
+    "void/mess/shit/Untitled 2.canvas",
+    "void/csharp/Screenshot 2024-10-14 at 20.27.23.png",
+    "void/csharp/Screenshot 2024-09-20 at 21.19.17.png",
+    "Costal Breeze Wallpaper.png",
+    "Clippings",
+    "Excalidraw",
+    "void/c/Drawing 2024-11-04 16.39.58.excalidraw.excalidraw",
+    "personal/daily planners",
+    "personal",
+    "untitled folder",
+    "void/mess/shit/Untitled 1.canvas",
+    "other&notes/shit/Untitled.canvas",
+    "other&notes/shit/Untitled 5.canvas",
+    "other&notes/shit/JS canvas.canvas",
+    "other&notes/shit/Untitled 3.canvas"
+  ]
+}

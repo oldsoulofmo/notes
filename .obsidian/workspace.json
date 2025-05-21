@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "357bcf1a507a9e20",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc06ef664558af9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1df00a4dec2d6a7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2f93df7a2fff38d",
+    "type": "split",
+    "children": [
+      {
+        "id": "396516c305f473db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f0bad95769d361e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe117e023a165d55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a2676e5bd85ceb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1af7a97b2656b860",
+    "type": "split",
+    "children": [
+      {
+        "id": "aab6c291ee68f888",
+        "type": "tabs",
+        "dimension": 65.89242053789731,
+        "children": [
+          {
+            "id": "2617d89d83bef78e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Make a blog with astro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Make a blog with astro"
+            }
+          },
+          {
+            "id": "9d27fad338497a6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "660cb111a11b5ca7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91929849b86a39bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "11381f54c9ded051",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "37d2b51065c56db6",
+        "type": "tabs",
+        "dimension": 34.10757946210269,
+        "children": [
+          {
+            "id": "184ec8156968e52e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1df00a4dec2d6a7b",
+  "lastOpenFiles": [
+    "Notes/Dev/Frontend/React/Hooks/useEffect.md",
+    "Notes/Dev/mess/shit/oop.md",
+    "Notes/Dev/mess/shit/js7.md",
+    "Notes/Dev/mess/shit/js3.md",
+    "Notes/Dev/mess/shit/Screenshot 2023-07-18 at 00.57.53.png",
+    "Notes/Dev/mess/shit/Screenshot 2023-07-15 at 00.08.53.png",
+    "Notes/Dev/mess/shit/Screenshot 2023-07-12 at 18.18.02.png",
+    "Notes/Dev/mess/shit/Screenshot 2023-07-12 at 15.20.39.png",
+    "Notes/Dev/mess/shit/Screenshot 2023-07-10 at 17.11.39.png",
+    "Notes/Dev/mess/shit/Screenshot 2023-07-10 at 17.11.39 1.png",
+    "Notes/Dev/mess/shit/Screenshot 2023-07-10 at 17.04.32.png",
+    "Notes/Dev/mess/shit/JS canvas.canvas",
+    "Notes/Dev/mess/shit/How javascript works behind the scenes.md",
+    "Notes/Dev/mess/shit/JAVASCRIPT NOTES.md",
+    "Notes/Dev/mess/shit/CSS.md",
+    "Notes/Dev/mess/Command line/Grep.md",
+    "Notes/Dev/Frontend/React/css modules.md",
+    "Notes/Dev/Frontend/React/Useful methods.md",
+    "Notes/Dev/Frontend/React/State with events and forms.md",
+    "Notes/Dev/Frontend/React/Rendering lists.md",
+    "Notes/Dev/Frontend/React/Rendering Lists – React.md",
+    "Notes/Dev/Frontend/React/Rendering Lists – React 2.md",
+    "Notes/Dev/Frontend/React/Rendering Lists – React 1.md",
+    "Notes/Dev/Frontend/React/React.md",
+    "Notes/Dev/Frontend/React/React Router.md",
+    "Notes/Dev/Frontend/React/Hooks",
+    "Notes/Dev/Frontend/React/General information.md",
+    "Notes/Dev/Frontend/React/Context API.md",
+    "Notes/Dev/Backend/java/stuff.md",
+    "Notes/Dev/Backend/java/part 6.md",
+    "Notes/Dev/Backend/java/part 5.md",
+    "Notes/Dev/Backend/java/java.md",
+    "Notes/Dev/Backend/java/book project.md",
+    "Notes/Dev/Backend/java/Part 4.md",
+    "Notes/Dev/Backend/java/Part 3.md",
+    "Notes/Dev/mess/shit",
+    "Notes/Dev/mess/Command line",
+    "Notes/Dev/Frontend/React",
+    "Notes/Dev/Frontend/Css",
+    "Notes/Dev/Backend/java",
+    "Notes/Dev/Backend/Spring Boot",
+    "Notes/Mathematics/Linear algebra",
+    "Notes/Dev/nodejs",
+    "Notes/Dev/mess",
+    "notes/Dev/mess/shit/Screenshot 2023-07-18 at 00.57.53.png",
+    "notes/Dev/mess/shit/Screenshot 2023-07-15 at 00.08.53.png",
+    "notes/Dev/mess/shit/Screenshot 2023-07-12 at 18.18.02.png",
+    "notes/Dev/mess/shit/JS canvas.canvas"
+  ]
+}

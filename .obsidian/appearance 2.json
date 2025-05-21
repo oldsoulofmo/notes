@@ -1,0 +1,10 @@
+{
+  "accentColor": "#535250",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "translucency": false,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "snippet"
+  ]
+}
